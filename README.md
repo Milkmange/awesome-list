@@ -47,6 +47,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Blasting Past iOS 18"][1038]
 - ["Booting into Breaches Hunting Windows SecureBoot's Remote Attack Surfaces"][1138]
 - ["Breaking Disassembly — Abusing symbol resolution in Linux programs to obfuscate library calls"][1125]
+- ["Breaking Into a Brother (MFC-J1010DW): Three Security Flaws in a Seemingly Innocent Printer"][1196]
 - ["Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages"][1039]
 - ["Broken Trust: Fixed Supermicro BMC Bug Gains a New Life in Two New Vulnerabilities"][1179]
 - ["Buried in the Log. Exploiting a 20 years old NTFS Vulnerability"][1124]
@@ -181,6 +182,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["State of Linux Snapshot Fuzzing"][1078]
 - ["STM32L05 Voltage Glitching"][1111]
 - ["Streaming Zero-Fi Shells to Your Smart Speaker"][1096]
+- ["System Register Hijacking: Compromising Kernel Integrity By Turning System Registers Against the System"][1196]
 - ["The Art of Linux Kernel Rootkits"][1008]
 - "The Evolution of Dirty COW":
   - [Part 1][1062]
@@ -198,6 +200,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   - [Part 2][1157]
 - ["When Good Kernel Defenses Go Bad: Reliable and Stable Kernel Exploits via Defense-Amplified TLB Side-Channel Leaks"][1067]
 - ["Windows arm64 Internals: Deconstructing Pointer Authentication"][1190]
+- ["Windows Heap Exploitation - From Heap Overflow to Arbitrary R/W"][1195]
 - ["WireTap: Breaking Server SGX via DRAM Bus Interposition"][1183]
 - ["Writing a Ghidra processor module"][1064]
 - ["You Already Have Our Personal Data, Take Our Phone Calls Too"][1140]
@@ -2566,3 +2569,6 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1192]: https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-5-debugging-queries/?ref=blog.exploits.club
 [1193]: https://www.interruptlabs.co.uk/articles/one-click-memory-corruption-in-alibabas-uc-browser-exploiting-patch-gap-v8-vulnerabilities-to-steal-your-data
 [1194]: https://boredpentester.com/pwn2own-2025-pwning-lexmarks-postscript-processor/
+[1195]: https://mrt4ntr4.github.io/Windows-Heap-Exploitation-dadadb/
+[1196]: https://starlabs.sg/blog/2025/11-breaking-into-a-brother-mfc-j1010dw/
+[1197]: https://kylebot.net/papers/ret2entry.pdf
